@@ -1,0 +1,16 @@
+* {
+  background-color: #F7F6DC;
+}
+
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+h2{
+  text-align: center;
+  padding: 50px;
+}
